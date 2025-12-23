@@ -6,9 +6,9 @@ A sampling of functionalities/code includes:
   - Gas dispersion, rotational velocity and kinetics 
   - Metallicity indicators (gas-phase metallicity, R23, O32)
 - Cutouts of galaxies from JWST data releases, SDSS MaNGA
-    Webscraping cutouts and collage-creation
-    Image-based clumpiness classification
-    Confidence level evaluation
+  - Webscraping cutouts and collage-creation
+  - Image-based clumpiness classification
+  - Confidence level evaluation
 - Fitting metallicity curves
 - Cross-matching LEGA-C and deconvolved catalogues
 - Adjusting for dust extinction, filtering AGNs and outliers

@@ -2,9 +2,9 @@ A collection of code used for the creation of plots, cutouts and analysis of the
 
 A sampling of functionalities/code includes:
 - Creation of plots with features including:
-    Stellar formation rate and stellar mass
-    Gas dispersion, rotational velocity and kinetics 
-    Metallicity indicators (gas-phase metallicity, R23, O32)
+  - Stellar formation rate and stellar mass
+  - Gas dispersion, rotational velocity and kinetics 
+  - Metallicity indicators (gas-phase metallicity, R23, O32)
 - Cutouts of galaxies from JWST data releases, SDSS MaNGA
     Webscraping cutouts and collage-creation
     Image-based clumpiness classification
